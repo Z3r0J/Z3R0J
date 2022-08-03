@@ -6,13 +6,13 @@
 
 <div>
 	
-	"Name" : "Jean Carlos Reyes",
-	"Country" : "🇩🇴",
-	"Age" :  19,
-	"Ask me About" :  "C# and Design Software",
-	"Learning" :  "ReactJs and NodeJs",
-	"Work Place" : "Actually don't work",
-	"Education" : "ITLA and Online Learning"
+	"📝 Name" : "Jean Carlos Reyes",
+	"🌐 Country" : "🇩🇴",
+	"🧔 Age" :  19,
+	"👨‍💻 Ask me About" :  "C# and Design Software",
+	"💻 Learning" :  "ReactJs and NodeJs",
+	"🏦 Work Place" : "Actually don't work",
+	"🎓 Education" : "ITLA and Online Learning"
 	
 </div>
 <hr/>
