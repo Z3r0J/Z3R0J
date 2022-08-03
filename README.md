@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://img.shields.io/static/v1?logo=html5&label=%20&message=HTML%205&color=orange&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?logo=css3&label=%20&message=CSS3&color=blue&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/static/v1?logo=javascript&label=%20&message=JAVASCRIPT&color=black&logoColor=yellow&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?logo=jquery&label=%20&message=JQUERY&color=white&logoColor=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=csharp&label=%20&message=C%20SHARP&color=black&logoColor=purple&style=for-the-badge"/>
-<img src="https://img.shields.io/static/v1?logo=typescript&label=%20&message=TypeScript&color=blue&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?logo=react&label=%20&message=REACT&color=black&logoColor=blue&style=for-the-badge"/>
