@@ -1,28 +1,41 @@
-### Hi there 👋
+####<h3 align='center'>👋 Welcome, I'm Jean Carlos 🎁</h3>
+------------------------------
+####<h4 align='center'>A Entry-Level Full Stack Developer from 🇩🇴 </h4>
 
-**Z3r0J/Z3R0J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif' width='300' align='center'/>
 
-Here are some ideas to get you started:
+<div align='center'>
+```
+	"Name" : "Jean Carlos Reyes",
+	"Country" : "🇩🇴",
+	"Age" :  19,
+	"Ask me About" :  "C# and Design Software",
+	"Learning" :  "ReactJs and NodeJs",
+	"Work Place" : "Actually don't work"
+```
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3r0J&langs_count=7&layout=compact&theme=merko)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+####<h3 align='center'>Programming Languages & Tools</h3>
+------------------------------
+<div align='center'>
 <img src="https://img.shields.io/static/v1?logo=html5&label=%20&message=HTML%205&color=orange&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=css3&label=%20&message=CSS3&color=blue&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?logo=javascript&label=%20&message=JAVASCRIPT&color=black&logoColor=yellow&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=jquery&label=%20&message=JQUERY&color=white&logoColor=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=bootstrap&label=%20&message=Bootstrap&color=blue&logoColor=white&style=for-the-badge"/>
+</div>
+
+<div align="center">
 <img src="https://img.shields.io/static/v1?logo=react&label=%20&message=REACT&color=black&logoColor=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?logo=JSON%20web%20tokens&label=%20&message=JWT&color=black&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=csharp&label=%20&message=C%20SHARP&color=black&logoColor=purple&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=visual%20studio&label=%20&message=Visual%20Studio&color=purple&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=visual%20studio%20code&label=%20&message=VS%20Code&color=blue&logoColor=white&style=for-the-badge"/>
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3r0J&langs_count=7&layout=compact&theme=merko)
+
+
 <img src="https://img.shields.io/static/v1?logo=microsoft%20sql%20server&label=%20&message=Microsoft%20SQL%20Server&color=red&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?logo=mysql&label=%20&message=MySQL&color=white&logoColor=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=php&label=%20&message=PHP&color=black&logoColor=purple&style=for-the-badge"/>
