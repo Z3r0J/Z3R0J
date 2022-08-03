@@ -44,6 +44,7 @@
 <div align="center">
 <img src="https://img.shields.io/static/v1?logo=git&label=%20&message=GIT&color=orange&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=github&label=%20&message=GITHUB&color=black&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?logo=npm&label=%20&message=NPM&color=darkred&logoColor=red&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?logo=linux&label=%20&message=LINUX&color=black&logoColor=yellow&style=for-the-badge"/>
 </div>
 <hr/>
