@@ -1,7 +1,7 @@
 <hr/>
 <h3 align='center'>👋 Welcome, I'm Jean Carlos 🎁</h3>
 <hr/>
-<h3 align='center'>A Entry-Level Full Stack Developer from 🇩🇴 </h3>
+<h3 align='center'>A Entry-Level .NET Full Stack Developer from 🇩🇴 </h3>
 
 
 <div>
