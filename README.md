@@ -1,18 +1,24 @@
 <hr/>
 <h3 align='center'>👋 Welcome, I'm Jean Carlos 🎁</h3>
 <hr/>
-<h3 align='center'>A Entry-Level .NET Full Stack Developer from 🇩🇴 </h3>
+<h3 align='center'>An Entry-Level .NET Full Stack Developer from 🇩🇴 </h3>
 
 
 <div>
 	
-	"📝 Name" : "Jean Carlos Reyes",
-	"🌐 Country" : "🇩🇴",
-	"🧔 Age" :  19,
-	"👨‍💻 Ask me About" :  "C# and Design Software",
-	"💻 Learning" :  "ReactJs and NodeJs",
-	"🏦 Work Place" : "Actually don't work",
-	"🎓 Education" : "ITLA and Online Learning"
+    {
+	"z3r0j": {
+	
+		"📝Name": "Jean Carlos Reyes",
+		"🌐Country": "🇩🇴",
+		"🧔Age": "19",
+		"👨‍💻AskMeAbout": "C# and Design Software",
+		"💻Learning": "ReactJs and NodeJs",
+		"🏦WorkPlace": "Actually don't work",
+		"🎓Education": "ITLA and Online Learning"
+	
+		}
+      }
 	
 </div>
 <hr/>
