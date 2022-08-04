@@ -7,7 +7,7 @@
 <div>
 	
     {
-	"z3r0j": {
+	   "z3r0j": {
 	
 		"📝Name": "Jean Carlos Reyes",
 		"🌐Country": "🇩🇴",
@@ -17,7 +17,7 @@
 		"🏦WorkPlace": "Actually don't work",
 		"🎓Education": "ITLA and Online Learning"
 	
-		}
+	      }
       }
 	
 </div>
