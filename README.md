@@ -11,7 +11,7 @@
 	
 		"📝Name": "Jean Carlos Reyes",
 		"🌐Country": "🇩🇴",
-		"🧔Age": "20",
+		"🧔Age": "21",
 		"👨‍💻AskMeAbout": "C# and Design Software",
 		"💻Learning": "ReactJs and NodeJs",
 		"🏦WorkPlace": "Actually don't work",
