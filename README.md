@@ -1,8 +1,12 @@
 <hr/>
 <h3 align='center'>👋 Welcome, I'm Jean Carlos 🎁</h3>
-<hr/>
 <h3 align='center'>An Entry-Level .NET Full Stack Developer from 🇩🇴 </h3>
-
+<hr/>
+<div align="center">
+	<h3 align="center">Profile Views</h3>
+	<img src="https://profile-counter.glitch.me/z3r0j/count.svg" alt="count"/>
+</div>
+<hr/>
 
 <div>
 	
